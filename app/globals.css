@@ -19,6 +19,7 @@
 body {
   color: rgb(var(--foreground-rgb));
   background-color: #111A24;
+  font-family: monospace;
   /* color: white; */
 }
 
