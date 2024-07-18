@@ -18,8 +18,8 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background-color: #111A24;
-  font-family: monospace;
+  background-color: #111a24;
+
   /* color: white; */
 }
 
